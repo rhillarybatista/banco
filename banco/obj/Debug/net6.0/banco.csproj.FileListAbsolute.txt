@@ -1,0 +1,15 @@
+C:\Users\2022102020020\source\repos\banco\banco\obj\Debug\net6.0\banco.csproj.AssemblyReference.cache
+C:\Users\2022102020020\source\repos\banco\banco\obj\Debug\net6.0\banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020020\source\repos\banco\banco\obj\Debug\net6.0\banco.AssemblyInfoInputs.cache
+C:\Users\2022102020020\source\repos\banco\banco\obj\Debug\net6.0\banco.AssemblyInfo.cs
+C:\Users\2022102020020\source\repos\banco\banco\obj\Debug\net6.0\banco.csproj.CoreCompileInputs.cache
+C:\Users\2022102020020\source\repos\banco\banco\bin\Debug\net6.0\banco.exe
+C:\Users\2022102020020\source\repos\banco\banco\bin\Debug\net6.0\banco.deps.json
+C:\Users\2022102020020\source\repos\banco\banco\bin\Debug\net6.0\banco.runtimeconfig.json
+C:\Users\2022102020020\source\repos\banco\banco\bin\Debug\net6.0\banco.dll
+C:\Users\2022102020020\source\repos\banco\banco\bin\Debug\net6.0\banco.pdb
+C:\Users\2022102020020\source\repos\banco\banco\obj\Debug\net6.0\banco.dll
+C:\Users\2022102020020\source\repos\banco\banco\obj\Debug\net6.0\refint\banco.dll
+C:\Users\2022102020020\source\repos\banco\banco\obj\Debug\net6.0\banco.pdb
+C:\Users\2022102020020\source\repos\banco\banco\obj\Debug\net6.0\banco.genruntimeconfig.cache
+C:\Users\2022102020020\source\repos\banco\banco\obj\Debug\net6.0\ref\banco.dll
