@@ -20,19 +20,34 @@ namespace banco.classes
 
         public override void Sacar(double saque)
         {
-            base.Sacar(saque);
+            if (saque <= Saldo)
+            {
+                Saldo -= saque;
+
+                if (saque >= 5000)
+                {
+                    Saldo -= 5;
+                }
+                else
+                {
+                    Console.WriteLine("Saldo negativado");
+                }
+            }
         }
 
-        public void Emprestimo(double limiteempre,double fazeremprestimo)
+        public void Emprestimo(double saque)
         {
-            if (fazeremprestimo >= limiteempre )
+            if (saque <= Limiteempre - Fazeremprestimo)
             {
-                Console.WriteLine("Valor nao é possivel");
+                Saldo += saque;
+                Fazeremprestimo += saque;
             }
-            if (limiteempre >= fazeremprestimo)
+            else
             {
-                Console.WriteLine(" ");
+                Console.WriteLine("Valor indisponivel ");
             }
         }
+
+        
     }
 }
